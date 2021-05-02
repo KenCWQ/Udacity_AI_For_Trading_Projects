@@ -1,7 +1,7 @@
 # Udacity Nanodegree - Artificial Intelligence For Trading Projects
 This repository contains the projects I have completed for the Udacity Nanodegree: Artificial Intelligence for Trading
 
-Here is the description of each projects:
+Description of each projects as follows:
 
 <b>1. Trading with Momentum</b>
 
